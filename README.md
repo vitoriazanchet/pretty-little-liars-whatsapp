@@ -5,7 +5,7 @@
 
 Simulação de um aplicativo de mensagens inspirado na série *Pretty Little Liars*, com conversas interativas, fluxos de diálogo automatizados e um jogo da memória integrado.
 
-![Video do site](https://github.com/vitoriazanchet/pretty-little-liars-whatsapp/blob/main/public/assets/pretty-little-liars-whatsapp.gif)
+![Video do site](https://github.com/vitoriazanchet/pretty-little-liars-whatsapp/blob/main/assets/pretty-little-liars-whatsapp.gif)
 
 ### 📱 Tela de Referência
 
