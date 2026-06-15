@@ -9,7 +9,7 @@ Simulação de um aplicativo de mensagens inspirado na série *Pretty Little Lia
 
 ### 📱 Tela de Referência
 
-![Tela de referência](https://github.com/vitoriazanchet/pretty-little-liars-whatsapp/blob/main/public/assets/whatsapp.png)
+![Tela de referência](https://github.com/vitoriazanchet/pretty-little-liars-whatsapp/blob/main/assets/whatsapp.png)
 
 ---
 
@@ -76,7 +76,7 @@ src/
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
+## 🚀 Como Executar o Projeto
 
 1.  **Clone o repositório:**
     ```bash
@@ -95,11 +95,6 @@ src/
     npx expo start
     ```
 5.  Abra o navegador no endereço indicado pelo terminal (geralmente `http://localhost:5173`).
-
-
-## 🔗 Link para Acesso Direto
-A aplicação está hospedada e disponível para testes no link abaixo:
-👉 **[Acesse Aqui](https://pretty-little-liars-whatsapp.vercel.app/)**
 
 ---
 
